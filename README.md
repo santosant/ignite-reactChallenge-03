@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img alt="Logo" title="Logo" src=".github/logo.png" width="75px" />
+    <img alt="Logo" title="Logo" src="github/logo.png" width="75px" />
   </a>
   <h3 align="center">Rocketshoes</h3>
 </p>
@@ -8,7 +8,6 @@
 <p align="center">
   <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-next-level">Next Level</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tests">Tests</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -40,7 +39,7 @@
 </p>
 
 <p align="center">
-    <img alt="Move.it" title="Move.it" src=".github/preview.png" />
+    <img alt="Move.it" title="Move.it" src="github/preview.png" />
 </p>
 
 <hr>
@@ -106,7 +105,7 @@ Run tests
 $ yarn test
 ```
 
-![tests](./.github/tests.png?raw=true)
+![tests](github/tests.png?raw=true)
 
 ## 📝 License
 
