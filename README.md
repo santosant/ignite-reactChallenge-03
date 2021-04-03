@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="#">
     <img alt="Logo" title="Logo" src="github/logo.png" width="75px" />
   </a>
   <h3 align="center">Rocketshoes</h3>
 </p>
+=======
+>>>>>>> 3dec625a55dbdf3d392a1aaad7fa93c03e83281a
 
 <p align="center">
   <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
