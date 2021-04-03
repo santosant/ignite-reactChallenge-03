@@ -35,8 +35,9 @@ const Cart = (): JSX.Element => {
   function handleProductIncrement(product: Product) {
     const incrementProduct = {
       productId: product.id,
-      amount: product.amount + 1
+      amount: product.amount + 1,
     }
+
     updateProductAmount(incrementProduct)
   }
 
@@ -66,7 +67,7 @@ const Cart = (): JSX.Element => {
         </thead>
         <tbody>
         {cartFormatted.map(product => (
-          <tr data-testid="product">
+          <tr key={product.id} data-testid="product">
           <td>
             <img src={product.image} alt={product.title} />
           </td>
@@ -93,7 +94,7 @@ const Cart = (): JSX.Element => {
               <button
                 type="button"
                 data-testid="increment-product"
-               onClick={() => handleProductIncrement(product)}
+                onClick={() => handleProductIncrement(product)}
               >
                 <MdAddCircleOutline size={20} />
               </button>
