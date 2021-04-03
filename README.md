@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="#">
-    <img alt="Logo" title="Logo" src=".github/logo.png" width="75px" />
-  </a>
-  <h3 align="center">Rocketshoes</h3>
-</p>
 
 <p align="center">
   <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
