@@ -74,7 +74,7 @@ This project was developed using the following technologies:
 Clone the project
 
 ```bash
-$ git clone https://github.com/santosant/ignite-reactChallenge-03.git
+$ git clone 
 ```
 
 Access the folder
